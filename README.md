@@ -1,7 +1,7 @@
 <div id="" align="center">
   <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
 </div>
-<h1 align="center">Welcome! 👋, I am VB</h1>
+<h1 align="center">Welcome! 👋🏾, I am VB</h1>
 <h3 align="center">HTML Email Developer | Portland OR</h3>
 <h4 align="center">I'm a self professed HTML email nerd with over 4+ years of digital marketing and brand building experience. I love to build emails from scratch using a custom design or from prebuilt templates. </h4>
 
