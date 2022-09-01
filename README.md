@@ -1,9 +1,9 @@
 <div id="" align="center">
   <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
 </div>
-<h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
-<h3 align="center">A full stack developer from Tampa, FL</h3>
-<h4 align="center">Hi my name is Joe Santos Garcia a web developer based out of NYC. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h1 align="center">Welcome! 👋, I am VB</h1>
+<h3 align="center">HTML Email Developer | Portland OR</h3>
+<h4 align="center">I'm a self professed HTML email nerd with over 4+ years of digital marketing and brand building experience. I love to build emails from scratch using a custom design or from prebuilt templates. </h4>
 
 <hr>
 
