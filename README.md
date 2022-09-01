@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/banner.jpg?raw=true" width="100%"/>
 </div>
 <h1 align="center">Welcome! 👋🏾, I am VB</h1>
 <h3 align="center">HTML Email Developer | Portland OR</h3>
