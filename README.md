@@ -42,7 +42,7 @@
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://www.canva.com/design/DAFLBtL5J3M/hiT7iUqMQWAjhq7BgTrs4A/view?utm_content=DAFLBtL5J3M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="project 1" height="900px" />
+						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="900px" />
 					</a>
 					<br>
 					<br>
