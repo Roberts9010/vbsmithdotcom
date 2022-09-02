@@ -37,9 +37,7 @@
 <h2 align="center">HTML Emails</h2>
 <div align="center">
 	<table>
-		<tr>
-			<!-- Project 1 -->
-			 
+		<tr>	 
 			<td width="50%">
 				<h3 align="center">Talley & Twine</h3>
 				<div align="center">  
@@ -64,9 +62,6 @@
 					</p>
 				</div>
 			</td>
-			<!-- Project 2 -->
-		
-			
 			<td width="50%">
 				<h3 align="center">The Coffee House</h3>
 				<div align="center" >  
@@ -90,7 +85,6 @@
 				</div>
         </tr>
 	    <tr>
-		    <!-- Project 3 -->
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
