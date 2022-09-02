@@ -103,8 +103,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Tested using Litmus. Built with pride.</strong></p>
+		    <p>Coinbase newsletter email.<br>&lt;always responsive&gt;</p>
                 </div>
             </td>
 		    <!-- Project 4 -->
@@ -126,8 +126,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Tested using Litmus. Built with pride.</strong></p>
+		    <p>Rootcause Breathwork transactional email<br>&lt;always responsive&gt;</p>
                 </div>	
             </td>
         </tr>
