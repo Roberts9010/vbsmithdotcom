@@ -39,7 +39,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">Talley & Twine</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
 						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/talley.gif?raw=true" alt="project 1" height="100%" style="max-height: 100%;" />
@@ -48,7 +48,7 @@
 					<br>
 					<p>
 						<!--Repo-->
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/robertvbsmith/talley-twinehtmlemail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<!--Project 1 live-->
