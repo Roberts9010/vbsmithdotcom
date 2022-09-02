@@ -47,9 +47,11 @@
 					<br>
 					<br>
 					<p>
+						<!--Repo-->
 						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
+						<!--Project 1 live-->
 						<a href="https://codingphase.com" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
@@ -69,9 +71,11 @@
 					<br>
 					<br>
 					<p>
+						<!--Repo-->
 						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
+						<!--Project 2 live-->
 						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
@@ -90,9 +94,11 @@
                     <br>
                     <br>
                     <p>
+			    <!--Repo-->
                         <a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
+			    <!--Project 3 live-->
 						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
@@ -110,9 +116,11 @@
                     <br>
                     <br>
                     <p>
+			    <!--Repo-->
                         <a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
+			    			<!--Project 4 live-->
 						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
