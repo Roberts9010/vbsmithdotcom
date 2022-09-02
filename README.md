@@ -81,7 +81,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Custom built from scratch. Dark mode enabled. &lt;always responsive&gt; </p>
+					<p>Custom built from scratch. <br>Dark mode enabled.<br> &lt;always responsive&gt; </p>
 				</div>
         </tr>
 	    <tr>
