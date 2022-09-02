@@ -56,9 +56,9 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>Tested using Litmus. Built with pride.</strong></p>
           <p>
-						Description goes here
+						Animated gif showing off multiple watches for promotion <br> &lt;always responsive&gt;
 					</p>
 				</div>
 			</td>
