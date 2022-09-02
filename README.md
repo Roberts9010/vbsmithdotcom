@@ -95,7 +95,7 @@
                     <br>
                     <p>
 			    <!--Repo-->
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/robertvbsmith/coinbaseemail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 			    <!--Project 3 live-->
@@ -118,7 +118,7 @@
                     <br>
                     <p>
 			    <!--Repo-->
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/robertvbsmith/rootcauseemail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 			    			<!--Project 4 live-->
