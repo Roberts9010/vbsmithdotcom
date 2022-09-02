@@ -136,7 +136,7 @@
 	&nbsp&nbsp&nbsp
 	<a href="https://twitter.com/vb45605742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/robertvbsmith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://instagram.com/codingphase" target="blank"><img align="center" src="" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://codepen.io/RobertVBSmith" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/03/15/18/13/code-7070894__480.png" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.youtube.com/c/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
 </p>
 
