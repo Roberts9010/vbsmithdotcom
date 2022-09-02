@@ -34,7 +34,7 @@
 
 <!-- PROJECTS -->
 
-<h2 align="center">Projects</h2>
+<h2 align="center">HTML Emails</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -63,7 +63,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">The Coffee House</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
 						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project2edited.png?raw=true" alt="project 2" height="100%" />
