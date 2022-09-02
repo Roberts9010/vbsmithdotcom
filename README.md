@@ -82,8 +82,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Custom built from scratch. <br>Dark mode enabled.<br> &lt;always responsive&gt; </p>
+					 <p><strong>Tested using Litmus. Built with pride.</strong></p>
+					<p>100% Custom built from scratch. <br>Dark mode enabled.<br> &lt;always responsive&gt; </p>
 				</div>
         </tr>
 	    <tr>
