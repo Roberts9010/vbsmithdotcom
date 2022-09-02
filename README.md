@@ -52,7 +52,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<!--Project 1 live-->
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://www.vbsmith.com/Talley.html#" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
