@@ -38,9 +38,8 @@
 <div align="center">
 	<table>
 		<tr>
-			<!-- Project 1 
-			 Talley & Twine
--->
+			<!-- Project 1 -->
+			 
 			<td width="50%">
 				<h3 align="center">Talley & Twine</h3>
 				<div align="center">  
@@ -65,9 +64,8 @@
 					</p>
 				</div>
 			</td>
-			<!-- Project 2
-			The Coffee House 
--->
+			<!-- Project 2 -->
+		
 			
 			<td width="50%">
 				<h3 align="center">The Coffee House</h3>
