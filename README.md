@@ -38,7 +38,9 @@
 <div align="center">
 	<table>
 		<tr>
-			<!-- Project 1 -->
+			<!-- Project 1 
+			 Talley & Twine
+-->
 			<td width="50%">
 				<h3 align="center">Talley & Twine</h3>
 				<div align="center">  
@@ -63,7 +65,10 @@
 					</p>
 				</div>
 			</td>
-			<!-- Project 2 -->
+			<!-- Project 2
+			The Coffee House 
+-->
+			
 			<td width="50%">
 				<h3 align="center">The Coffee House</h3>
 				<div align="center" >  
@@ -74,7 +79,7 @@
 					<br>
 					<p>
 						<!--Repo-->
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/robertvbsmith/thecoffeehouse" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<!--Project 2 live-->
