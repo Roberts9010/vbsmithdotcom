@@ -41,7 +41,7 @@
 			<td width="50%">
 				<h3 align="center">Talley & Twine</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://www.vbsmith.com/Talley.html' target="_blank">
 						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/talley.gif?raw=true" alt="project 1" height="100%" width="100%" />
 					</a>
 					<br>
@@ -65,7 +65,7 @@
 			<td width="50%">
 				<h3 align="center">The Coffee House</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://www.vbsmith.com/thecoffeehouse.html' target="_blank">
 						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project2edited.png?raw=true" alt="project 2" height="100%" width="100%" />
 					</a>
 					<br>
@@ -88,7 +88,7 @@
             <td width="50%">
                 <h3 align="center">Coinbase</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://www.vbsmith.com/coinbaseemail.html' target="_blank">
                         <img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" width="100%" />
                     </a>
                     <br>
