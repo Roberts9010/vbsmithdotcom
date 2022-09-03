@@ -89,7 +89,7 @@
                 <h3 align="center">Coinbase</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" />
+                        <img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" width="100%" />
                     </a>
                     <br>
                     <br>
