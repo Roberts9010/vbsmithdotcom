@@ -66,7 +66,7 @@
 				<h3 align="center">The Coffee House</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project2edited.png?raw=true" alt="project 2" height="100%" />
+						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/project2edited.png?raw=true" alt="project 2" height="100%" width="100%" />
 					</a>
 					<br>
 					<br>
