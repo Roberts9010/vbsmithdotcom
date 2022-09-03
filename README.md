@@ -42,7 +42,7 @@
 				<h3 align="center">Talley & Twine</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/talley.gif?raw=true" alt="project 1" height="100%" style="max-height: 100%;" />
+						<img src="https://github.com/robertvbsmith/vbsmithdotcom/blob/main/assets/talley.gif?raw=true" alt="project 1" height="100%" width="100%" />
 					</a>
 					<br>
 					<br>
